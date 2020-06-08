@@ -1,1 +1,1 @@
-Cyphai voting contracts competition under development
+Cyphai voting contracts competition under development.
