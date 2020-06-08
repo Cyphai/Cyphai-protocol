@@ -4,9 +4,11 @@ The problems solving and decision making model built by the Cyphai team comes fr
 
 The Cyphai model is a model from the research of a decision-making and problems solving specialist - Robert Michit - and his teams.
 
-The Cyphai protocol utilizes blockchain technology via smart contracts. The contract allows anyone to post a database, an evaluation function, and a monetary reward for anyone who can provide the best trained machine learning model for the data. Participants train deep neural networks to model the data, and submit their trained networks to the blockchain. The blockchain executes these neural network models to evaluate submissions, and ensure that payment goes to the best model.
+Using blockchain technology, it is possible to create contracts that offer a reward in exchange for a trained machine learning model for a particular database. This would allow users to train machine learning models and be rewarded via blockchain.
 
-The contract allows for the creation of a decentralized and trustless marketplace for exchanging ML models and many more under development. This gives ML practitioners an opportunity to monetize their skills directly. It also allows any participant or organization to solicit machine learning models from all over the world. This will incentivize the creation of better machine learning models, and make AI more accessible to companies and software agents. Anyone with a database, including software agents can create Cyphai contracts.
+The Cyphai protocol will use the blockchain to automatically validate the solution, so there would be no debate as to whether the solution was correct or not. Users who submit solutions will have no risk of not being paid for their work. Contracts can be easily created by anyone with a database.
+
+This creates a market where parties capable of solving machine learning problems can directly monetize their skills and where any organization or agent who has a problem to solve with AI can solicit solutions from developers around the world. This will encourage the creation of better learning models and make AI more accessible to companies.
 
 [Whitepaper](https://cyph.ai)
 
@@ -85,4 +87,4 @@ python -m pytest --disable-pytest-warnings tests/*
 
 The Cyphai contract can be found in the `contracts` directory.
 
-For more information about Cyphai contracts, please read the [white paper](#).
+For more information about Cyphai contracts, please read the [white paper](https://cyph.ai).
