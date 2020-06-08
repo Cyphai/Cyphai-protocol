@@ -1,1 +1,1 @@
-Database for Cyphai voting contracts competition under development
+Database for Cyphai voting contracts competition under development.
