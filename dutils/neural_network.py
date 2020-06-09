@@ -1,5 +1,5 @@
 # A simple linear neural network implementation in Tensorflow
-# Trained on the sample datasets
+# Trained on the sample databases
 import tensorflow as tf
 import dutils.debug as dbg
 from numpy import array as narray
