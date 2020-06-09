@@ -1,2 +1,2 @@
-# Configurations go here
+# Configurations
 DEBUG = False
