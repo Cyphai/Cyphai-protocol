@@ -1,4 +1,4 @@
-from dutils.neural_network import NeuralNetwork
+from dutils.neural_network import NeuralNetwork 
 from dutils.dataset import SampleCircleDataset, SampleSwirlDataset,\
     SampleHalfDividedDataset, SampleAcrossCornerDataset
 
