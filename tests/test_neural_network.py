@@ -1,4 +1,4 @@
-from dutils.neural_network import NeuralNetwork 
+from dutils.neural_network import NeuralNetwork
 from dutils.dataset import SampleCircleDataset, SampleSwirlDataset,\
     SampleHalfDividedDataset, SampleAcrossCornerDataset
 
@@ -103,7 +103,7 @@ def test_5lnn_load_dataset():
     assert(not isinstance(nn.tf_weights, type(None)))
     assert(not isinstance(nn.tf_init, type(None)))
     assert(not isinstance(nn.tf_layers, type(None)))
-    assert(not isinstance(nn.tf.lenghts, type(None)))
+
 
 def test_train_5lnn():
     il_nn = 2
