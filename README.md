@@ -10,7 +10,11 @@ The Cyphai protocol will use the blockchain to automatically validate the soluti
 
 This creates a market where parties capable of solving machine learning problems can directly monetize their skills and where any organization or agent who has a problem to solve with AI can solicit solutions from developers around the world. This will encourage the creation of better learning models and make AI more accessible to companies.
 
-[Whitepaper](https://cyph.ai)
+For more information about Cyphai, please read the [white paper](https://cyph.ai).
+
+## Cyphai Contracts
+
+The Cyphai contract can be found in the `contracts` directory.
 
 ## Requirements
 
@@ -82,9 +86,3 @@ To run all the tests, use the following:
 ***
 python -m pytest --disable-pytest-warnings tests/*
 ***
-
-## Cyphai Contracts
-
-The Cyphai contract can be found in the `contracts` directory.
-
-For more information about Cyphai contracts, please read the [white paper](https://cyph.ai).
