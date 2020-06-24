@@ -10,7 +10,7 @@ The Cyphai protocol will use the blockchain to automatically validate the soluti
 
 This creates a market where parties capable of solving machine learning problems can directly monetize their skills and where any organization or agent who has a problem to solve with AI can solicit solutions from developers around the world. This will encourage the creation of better learning models and make AI more accessible to companies.
 
-For more information about Cyphai, please read the [white paper](https://cyph.ai).
+For more information about Cyphai, please read the [white paper](https://cyph.ai/cyphai_whitepaper.pdf).
 
 ## Cyphai Contracts
 
