@@ -19,7 +19,6 @@ def test_2lnn_load_dataset():
     nn = NeuralNetwork(il_nn, hl_nn, ol_nn)
     scd = SampleHalfDividedDataset()
     scd.init_random_training_indexes()
-    scd.init_training_indexes()
     scd.cyphai_init()
     nn.load_dataset(scd)
     nn.init_network()
