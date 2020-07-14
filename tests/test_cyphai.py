@@ -318,9 +318,6 @@ def test_single_solver_refunded_contract(web3, chain):
 
     dbg.dprint("Data group indexes: " + str(dgi))
     
-    init3_tx = cyphai.transact().init2()
-    chain.wait.for_receipt(init3_tx)
-
     init2_tx = cyphai.transact().init2()
     chain.wait.for_receipt(init2_tx)
 
