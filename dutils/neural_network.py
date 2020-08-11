@@ -284,6 +284,8 @@ class NeuralNetwork():
             # Load dataset
             self.train_data = narray(self.binary_2_one_hot(dataset_obj.train_data))
             self.test_data = narray(self.binary_2_one_hot(dataset_obj.test_data))
+            self.train_data = narray(self.binary_1_one_hot(dataset_obj.train_data))
+            self.test_data = narray(self.binary_1_one_hot(dataset_obj.test_data))
 
     def pack_weights(self, weights):
         # In the NN class, weights are fortmatted as: w[l_i][l_ni][pl_ni]
